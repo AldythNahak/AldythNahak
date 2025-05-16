@@ -42,11 +42,7 @@ Here are some ideas to get you started:
 
 ![Aldyth's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AldythNahak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#### 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AldythNahak)
-
-#### 🤖 Entertain
+#### 🤖 Contribution
 
 <img src="https://raw.githubusercontent.com/AldythNahak/AldythNahak/output/snake.svg" alt="Snake animation" />
 
@@ -57,3 +53,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AldythNahak/AldythNahak/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AldythNahak/AldythNahak/output/pacman-contribution-graph.svg">
 </picture>
+
+#### 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AldythNahak)
