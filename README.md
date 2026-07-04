@@ -84,9 +84,7 @@ Centralized reporting platform for business intelligence and transaction analyti
 
 ## 📈 GitHub Stats
 
-![Aldyth's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldythNahak&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldythNahak&layout=compact&theme=radical)
+![Aldyth's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldythNahak&hide=contribs,pr&show_icons=true&theme=radical) ![Aldyth's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AldythNahak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
